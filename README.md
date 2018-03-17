@@ -1,5 +1,5 @@
 
-## NEX Chrome Extension Facial Recognition Verification
+## NEX Facial Recognition
 
 This project uses Amazon's Rekognition services (specifically face search) to verify a user when starting a transaction on the NEX chrome extension. In `import.js` you can find code for loading a local folder of face images into an AWS image collection. `index.js` starts the application.
 
